@@ -8,7 +8,7 @@ description = "Hallo is a single-page Hugo theme to introduce yourself."
 homepage = "https://github.com/EmielH/hallo-hugo"
 tags = ["minimal", "clean", "responsive", "simple", "personal", "starter", "single page", "onepage", "Font Awesome", "landing page"]
 features = []
-min_version = "0.43"
+min_version = "0.44"
 
 [author]
   name = "Emiel Hollander"
